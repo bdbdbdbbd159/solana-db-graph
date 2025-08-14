@@ -1,5 +1,5 @@
-[programs.localnet]
-solana_db = "YourProgramIDHere"
+[programs.testnet]
+solana_db = "REPLACE_WITH_PROGRAM_ID"
 
 [provider]
 cluster = "https://api.testnet.solana.com"
