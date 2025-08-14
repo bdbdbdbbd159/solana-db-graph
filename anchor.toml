@@ -1,0 +1,9 @@
+[programs.localnet]
+solana_db = "YourProgramIDHere"
+
+[provider]
+cluster = "https://api.testnet.solana.com"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "anchor test"
